@@ -1,0 +1,14 @@
+{
+    "errors": {
+        "badRequest": "Los parámetros requeridos no fueron encontrados",
+        "currentyRecord": "Actualmente hay un registro con esos atributos",
+        "incorrectUsername": "El nombre de usuario es incorrecto",
+        "incorrectPassword": "La contraseña es incorrecta",
+        "notAuthorized": "No Autorizado!",
+        "internalError": "Hay un error interno en el servidor",
+        "incorrectCredentials": "Las credenciales son incorrectas"
+    },
+    "correct": {
+        "recordCreated": "El registro fue creado correctamente"
+    }
+}
